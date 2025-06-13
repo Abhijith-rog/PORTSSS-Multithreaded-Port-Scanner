@@ -1,4 +1,4 @@
-# PORTSSS-Multithreaded-Port-Scanner
+# PORTSSS
 Recon_tool
 
 # PortSSS - Python Multi-threaded TCP/UDP Port Scanner
